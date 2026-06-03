@@ -12,13 +12,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am Shangruo Sun, an undergraduate student majoring in Computer Science and Technology at the University of Chinese Academy of Sciences (UCAS).
+Welcome to my homepage! 
 
-Before entering UCAS, I studied at The First High School of Central China Normal University, where I developed an interest in physics and won the Second Prize in the Provincial Physics Olympiad. Ironically, college physics later became one of the subjects that kept reminding me how difficult curiosity can be.
+I am **Shangruo Sun**, an undergraduate student majoring in **Computer Science and Technology** at the **University of Chinese Academy of Sciences (UCAS)**.
 
-Driven by curiosity, I first explored computer vision and deep learning. Recently, my interests have gradually shifted toward natural language processing, especially hallucination, uncertainty estimation, and the reliability of large language models. I am currently learning in the STAR Group, trying to build stronger foundations and understand how research questions are formed and studied.
+Before entering UCAS, I studied at **The First High School of Central China Normal University**, where I developed an interest in physics and won the **Second Prize in the Provincial Physics Olympiad**. Ironically, college physics later became one of the subjects that kept reminding me how difficult curiosity can be.
 
-Outside academics, I enjoy badminton, dance, and food hunting — although I am far from being an expert in the first two. Feel free to contact me if you would like to discuss research, study together, play badminton, or simply find a good place to eat!
+# 🧠 Research Interests
+
+Driven by curiosity, I first explored **computer vision** and deep learning. Recently, my interests have gradually shifted toward **natural language processing**, especially **hallucination, uncertainty estimation, and the reliability of large language models**. I am currently learning in the **STAR Group**, trying to build stronger foundations and understand how research questions are formed and studied.
+
+# 🌱 Beyond Academics
+
+Outside academics, I enjoy **badminton**, **dance**, and **food hunting** — although I am far from being an expert in the first two. Feel free to contact me if you would like to discuss research, study together, play badminton, or simply find a good place to eat!
 
 
 # 🔥 News
