@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: ""
 excerpt: ""
@@ -28,9 +28,9 @@ Outside academics, I enjoy **badminton**, **dance**, and **food hunting** — al
 
 
 # 🔥 News
-- *2025.09*: Admitted to the University of Chinese Academy of Sciences, majoring in Computer Science and Technology.
 - *2026.06*:  &nbsp;🎉🎉🎉 Began learning in the STAR Group and became interested in NLP, hallucination, uncertainty estimation, and reliable AI.
 - *2026.06*:  &nbsp;🎉🎉🎉  Built this personal homepage as a place to record my academic exploration, projects, and notes.
+- *2025.09*: Admitted to the University of Chinese Academy of Sciences, majoring in Computer Science and Technology.
 
 
 # 📖 Education
