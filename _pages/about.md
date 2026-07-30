@@ -20,7 +20,7 @@ Before entering UCAS, I studied at **The First High School of Central China Norm
 
 # 🧠 Research Interests
 
-Driven by curiosity, I first explored **computer vision** and deep learning. Recently, my interests have gradually shifted toward **natural language processing**, especially **hallucination, uncertainty estimation, and the reliability of large language models**. I am currently learning in the **STAR Group**, trying to build stronger foundations and understand how research questions are formed and studied.
+Driven by curiosity, I first explored **computer vision** and deep learning. More recently, my interests have shifted toward **natural language processing**, with a particular focus on **hallucination, uncertainty estimation, and the reliability of large language models**. I am currently working with the **STAR Group**, where I am fortunate to be advised by [Prof. Fei Sun](https://ofey.me/). Through this experience, I hope to strengthen my foundations and develop a deeper understanding of how research questions are formulated and investigated.
 
 # 🌱 Beyond Academics
 
