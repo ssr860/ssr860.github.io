@@ -20,12 +20,13 @@ Before entering UCAS, I studied at **The First High School of Central China Norm
 
 # 🧠 Research Interests
 
-Driven by curiosity, I first explored **computer vision** and deep learning. More recently, my interests have shifted toward **natural language processing**, with a particular focus on **hallucination, uncertainty estimation, and the reliability of large language models**. I am currently working with the **STAR Group**, where I am fortunate to be advised by [Prof. Fei Sun](https://ofey.me/). Through this experience, I hope to strengthen my foundations and develop a deeper understanding of how research questions are formulated and investigated.
+Driven by curiosity, I first explored **computer vision** and deep learning. The rapid rise of large language models also sparked my interest in **natural language processing**. I am fortunate to have met [Prof. Fei Sun](https://ofey.me/) and to be working with the [STAR Group](https://ict-star.github.io/), where I focused on **hallucination, uncertainty estimation, and the reliability of large language models**. In fact, this experience is teaching me what research truly means and how to be a good researcher. Even as AI advances rapidly, I still have faith in human curiosity, creativity, and intelligence.
 
 # 🌱 Beyond Academics
 
-Outside academics, I enjoy **badminton**, **dance**, and **food hunting** — although I am far from being an expert in the first two. Feel free to contact me if you would like to discuss research, study together, play badminton, or simply find a good place to eat!
+Outside academics, I enjoy **badminton**, **dance**, and **food hunting**. I have also recently started exploring **fitness**, **tennis**, and **cycling**, although I am still very much a beginner in all three.
 
+Feel free to contact me if you would like to discuss research, study together, play sports, go cycling, or simply find a good place to eat!
 
 # 🔥 News
 - *2026.06*:  &nbsp;🎉🎉🎉 Began learning in the <a href="https://ict-star.github.io/">STAR Group</a> and became interested in NLP, hallucination, uncertainty estimation, and reliable AI.
@@ -36,4 +37,3 @@ Outside academics, I enjoy **badminton**, **dance**, and **food hunting** — al
 # 📖 Education
 - *2022.09 - 2025.06*, High School, The First High School of Central China Normal University
 - *2025.09 (now)*, University of Chinese Academy of Sciences, Beijing, China
-
