@@ -8,6 +8,10 @@
 # Site Settings
 title                    : "Shangruo Sun"
 description              : "UCAS CS undergraduate student"
+
+url : "https://ssr860.github.io"
+baseurl : ""
+
 repository               : "ssr860/ssr860.github.io"
 google_scholar_stats_use_cdn : true
 
