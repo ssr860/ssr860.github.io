@@ -14,7 +14,7 @@ redirect_from:
 
 Welcome to my homepage! 
 
-I am **Shangruo Sun**, an undergraduate student majoring in **Computer Science and Technology** at the **University of Chinese Academy of Sciences (UCAS)**.
+I am **Shangruo Sun(孙上若)**, an undergraduate student majoring in **Computer Science and Technology** at the **University of Chinese Academy of Sciences (UCAS)**.
 
 Before entering UCAS, I studied at **The First High School of Central China Normal University**, where I developed an interest in physics and won the **Second Prize in the Provincial Physics Olympiad**. Ironically, college physics later became one of the subjects that kept reminding me how difficult curiosity can be.
 
